@@ -10,7 +10,7 @@ Simplest example of animation with css.
 
 # Result
 
-![basic react animation.css](https://github.com/minorsolis/animate.css/public/react-animate-css.gif)
+![basic react animation.css](https://raw.githubusercontent.com/minorsolis/animate.css/main/public/react-animate-css.gif)
 
 # Finally
 
